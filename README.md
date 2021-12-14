@@ -23,6 +23,12 @@ Here are places to look at regarding me and my information:
 👔 [linkedin][linkedin] **|**
 🏡 [Patreon][linkedin] **|**
 
+http://www.JamesAvakian.com
+
+https://javakian1.wixsite.com/my-site-2
+
+http://www.OpticalAutomation.com
+
 https://www.patreon.com/MyOneUniverse?fan_
 
 [firebase]: https://firebase.google.com
