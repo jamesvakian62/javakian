@@ -25,6 +25,12 @@ Here are places to look at regarding me and my information:
 
 https://www.patreon.com/MyOneUniverse?fan_
 
+[My Website]: https://www.JamesAvakian.com
+
+[Website2]: https://javakian1.wixsite.com/my-site-2
+
+
+
 [firebase]: https://firebase.google.com
 [styled]: https://styled-components.com
 [jamstack]: https://jamstack.org
