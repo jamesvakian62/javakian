@@ -1,5 +1,7 @@
 [![bg][banner]][website]
 
+James Avakian, Software Developer       http://www.JamesAvakian.com       https://javakian1.wixsite.com/my-site-2.  http://OpticalAutomation.com
+
 [banner]: https://raw.githubusercontent.com/javakian/javakian/master/1.png
 
 Hi 👋 , I am a Software Developer currently developing products for Optical Automation, LLC. Specifically I use Next.js and Tailwindcss, and MongoDB to make our products.  Generally I started with industry MERN React.JS full stack information technology by MongoDB, Express.JS, React.JS, and Node.JS technology. Today I only use Next.js for exciting people oriented website networks. This technology is performant, the fastest responding website technology available. I deploy websites using Microsoft Visual Code, Github, Netlify, and Vercel technologies.
