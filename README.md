@@ -26,6 +26,8 @@ Here are places to look at regarding me and my information:
 https://www.patreon.com/MyOneUniverse?fan_
 
 [firebase]: https://firebase.google.com
+
+[firebase]: https://firebase.google.com
 [styled]: https://styled-components.com
 [jamstack]: https://jamstack.org
 [next]: https://nextjs.org
